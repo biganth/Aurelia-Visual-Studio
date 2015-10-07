@@ -1,4 +1,4 @@
-##A template to get started with Aurelia in Visual Studio
+##A template to get started with Aurelia in Visual Studio 2015
 
 You will need to have node and git installed to run these commands.
 
