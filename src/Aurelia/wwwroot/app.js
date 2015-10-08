@@ -2,7 +2,7 @@
     configureRouter(config, router){
         config.title = 'Aurelia-Setup';
         config.map([
-          { route: ['','main'], name: 'main',      moduleId: './main',      nav: true, title:'Main Page' }
+          { route: ['','welcome'], name: 'welcome',   moduleId: 'welcome',  nav: true, title:'Home' }
         ]);
 
         this.router = router;
