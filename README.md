@@ -7,6 +7,6 @@ In the root of your project run the following commands:
 ```
 npm install jspm --save-dev
 jspm init
-jspm github config
+jspm registry config github
 jspm install -y
 ```
